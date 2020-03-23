@@ -1,2 +1,2 @@
-# pigeon
-a typceho  theme
+# Pigeon
+A typceho  theme
